@@ -18,8 +18,8 @@ software developer
 </a>
 
 
-<span></span>
-<span></span>
+<br>
+<br>
 
 ![](https://komarev.com/ghpvc/?username=EduardoRomaguera&color=brightgreen&style=flat-square)
 
