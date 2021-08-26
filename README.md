@@ -6,18 +6,8 @@ software developer
     🌱  I´m currently learning advance C# and Java.
 
 ### Programming Languages and tools :desktop_computer:	
-<img src="https://github.com/EduardoRomaguera/EduardoRomaguera/blob/main/images/icons/html.png" width=60>
-<img src="https://github.com/EduardoRomaguera/EduardoRomaguera/blob/main/images/icons/css.png"
-width=60>
-<img src="https://github.com/EduardoRomaguera/EduardoRomaguera/blob/main/images/icons/javascript.png" width=60>
-<img src="https://github.com/EduardoRomaguera/EduardoRomaguera/blob/main/images/icons/nodejs.png" width=60>
-<img src="https://github.com/EduardoRomaguera/EduardoRomaguera/blob/main/images/icons/mongo.png" width=60>
-<img src="https://github.com/EduardoRomaguera/EduardoRomaguera/blob/main/images/icons/sql.png"
-width=60>
-<img src="https://github.com/EduardoRomaguera/EduardoRomaguera/blob/main/images/icons/mysql.png" width=60>
-<img src="https://github.com/EduardoRomaguera/EduardoRomaguera/blob/main/images/icons/visualStudio.png" width=60>
-<img src="https://github.com/EduardoRomaguera/EduardoRomaguera/blob/main/images/icons/intellij.png" width=60>
-<img src="https://github.com/EduardoRomaguera/EduardoRomaguera/blob/main/images/icons/asana.png" width=60>
+<img src="https://github.com/EduardoRomaguera/EduardoRomaguera/blob/main/images/icons/html.png" width=60>   <img src="https://github.com/EduardoRomaguera/EduardoRomaguera/blob/main/images/icons/css.png"
+width=60>   <img src="https://github.com/EduardoRomaguera/EduardoRomaguera/blob/main/images/icons/javascript.png" width=60>   <img src="https://github.com/EduardoRomaguera/EduardoRomaguera/blob/main/images/icons/nodejs.png" width=60>   <img src="https://github.com/EduardoRomaguera/EduardoRomaguera/blob/main/images/icons/mongo.png" width=60>   <img src="https://github.com/EduardoRomaguera/EduardoRomaguera/blob/main/images/icons/sql.png" width=60>   <img src="https://github.com/EduardoRomaguera/EduardoRomaguera/blob/main/images/icons/mysql.png" width=60>   <img src="https://github.com/EduardoRomaguera/EduardoRomaguera/blob/main/images/icons/visualStudio.png" width=60>   <img src="https://github.com/EduardoRomaguera/EduardoRomaguera/blob/main/images/icons/intellij.png" width=60>   <img src="https://github.com/EduardoRomaguera/EduardoRomaguera/blob/main/images/icons/asana.png" width=60>
 
 
 
