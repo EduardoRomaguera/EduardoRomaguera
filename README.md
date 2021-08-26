@@ -1,9 +1,12 @@
 ### Hi!
-I'm Eduardo Romaguera
+I'm Eduardo Romaguera, 
+
 software developer
 ![](https://github.com/EduardoRomaguera/EduardoRomaguera/blob/main/images/banner/banner.png)
-    🔭  I´m currently looking for a job.
-    🌱  I´m currently learning advance C# and Java.
+
+-🔭  I´m currently looking for a job.
+
+-🌱  I´m currently learning advance C# and Java.
 
 ### Programming Languages and tools :desktop_computer:	
 <img src="https://github.com/EduardoRomaguera/EduardoRomaguera/blob/main/images/icons/html.png" width=60>   <img src="https://github.com/EduardoRomaguera/EduardoRomaguera/blob/main/images/icons/css.png"
