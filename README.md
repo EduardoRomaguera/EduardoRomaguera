@@ -3,7 +3,7 @@ I'm Eduardo Romaguera,
 software developer
 ![](https://github.com/EduardoRomaguera/EduardoRomaguera/blob/main/images/banner/banner.png)
 :fire::fire: Take a look to my portfolio on this link:
-https://eduardoromaguera.github.io/portafolioWebSite/
+http://eromaguera.com/
 
 -🔭  I´m currently looking for a job.
 
