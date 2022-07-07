@@ -5,9 +5,9 @@ software developer
 :fire::fire: Take a look to my portfolio on this link:
 http://eromaguera.com/
 
--🔭  I´m currently looking for a job.
+-🔭  I´m currently _____________
 
--🌱  I´m currently learning advance C# and Java.
+-🌱  I´m currently learning ____________
 
 ### :desktop_computer: Programming Languages and tools
 <img src="https://github.com/EduardoRomaguera/EduardoRomaguera/blob/main/images/icons/html.png" width=60>   <img src="https://github.com/EduardoRomaguera/EduardoRomaguera/blob/main/images/icons/css.png" width=60>   <img src="https://github.com/EduardoRomaguera/EduardoRomaguera/blob/main/images/icons/javascript.png" width=60>   <img src="https://github.com/EduardoRomaguera/EduardoRomaguera/blob/main/images/icons/nodejs.png" width=60>   <img src="https://github.com/EduardoRomaguera/EduardoRomaguera/blob/main/images/icons/java.png" width=60>   <img src="https://github.com/EduardoRomaguera/EduardoRomaguera/blob/main/images/icons/cSharp.png" width=60>   <img src="https://github.com/EduardoRomaguera/EduardoRomaguera/blob/main/images/icons/mongo.png" width=60>   <img src="https://github.com/EduardoRomaguera/EduardoRomaguera/blob/main/images/icons/sql.png" width=60>   <img src="https://github.com/EduardoRomaguera/EduardoRomaguera/blob/main/images/icons/mysql.png" width=60>   <img src="https://github.com/EduardoRomaguera/EduardoRomaguera/blob/main/images/icons/visualStudioCode.png" width=60>   <img src="https://github.com/EduardoRomaguera/EduardoRomaguera/blob/main/images/icons/visualStudio.png" width=60>   <img src="https://github.com/EduardoRomaguera/EduardoRomaguera/blob/main/images/icons/intellij.png" width=60>   <img src="https://github.com/EduardoRomaguera/EduardoRomaguera/blob/main/images/icons/github.png" width=60>   <img src="https://github.com/EduardoRomaguera/EduardoRomaguera/blob/main/images/icons/bitbucket.png" width=60>   <img src="https://github.com/EduardoRomaguera/EduardoRomaguera/blob/main/images/icons/asana.png" width=60>
